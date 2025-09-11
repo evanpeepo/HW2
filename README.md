@@ -13,3 +13,7 @@ For search terms "watershed + hydrology + nitrogen" (Maggie's search):
 
 
 Objective 2
+1. Thompson et al. 2023. No carbon storage in growth-limited trees in a semi-arid woodland
+3. Ran lines 1056-1224. Loaded packages tidyverse and ggplot2
+4. Figure 3C
+5. No changes were needed to run this. Data needed was within repository and paths were relative.
