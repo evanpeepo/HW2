@@ -25,3 +25,7 @@ Objective 2
 3. Ran lines 1056-1224. Loaded packages tidyverse and ggplot2 (already installed). 
 4. Figure 3C 
 5. No changes were needed to run this (besides typing the variable name to show the plot). Required data was within the repository and paths were relative.
+
+Citation and Repo:
+Thompson, R. A., H. D. Adams, D. D. Breshears, A. D. Collins, L. T. Dickman, C. Grossiord, À. Manrique‐Alba, D. M. Peltier, M. G. Ryan, A. M. Trowbridge, and N. G. McDowell. 2023. No carbon storage in growth-limited trees in a semi-arid woodland. Nature Communications 14:1959.
+https://github.com/r-alex-thompson/SUMO/tree/Code
